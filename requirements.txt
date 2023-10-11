@@ -19,7 +19,7 @@ psycopg2
 pygraphviz==1.7
 pyserde==0.12.2
 python-magic==0.4.27
-pyyaml==5.4
+pyyaml==6.0.1
 readwise-django-rq-scheduler==1.2.1
 requests==2.31.0
 requests_oauthlib==1.3.1
